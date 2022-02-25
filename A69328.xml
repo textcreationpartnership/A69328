@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles for the due execution of the statutes of apparell, and for the reformation of the outragious excesse thereof, growen of late time within the realme: deuysed vpon the Quenes Maiesties commaundement, by aduise of her counsell, the .vi. of May. Anno.M D LXII.</title>
+            <title>Proclamations. 1562-05-06</title>
+            <author>England and Wales. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1564</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69328</idno>
+            <idno type="STC">STC 7947.3</idno>
+            <idno type="STC">ESTC S117029</idno>
+            <idno type="EEBO-CITATION">99852244</idno>
+            <idno type="PROQUEST">99852244</idno>
+            <idno type="VID">17558</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69328)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 17558)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1572:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles for the due execution of the statutes of apparell, and for the reformation of the outragious excesse thereof, growen of late time within the realme: deuysed vpon the Quenes Maiesties commaundement, by aduise of her counsell, the .vi. of May. Anno.M D LXII.</title>
+                  <title>Proclamations. 1562-05-06</title>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>3 sheets   </extent>
+               <publicationStmt>
+                  <publisher>In Powles Churchyarde, by Rycharde Iugge and Iohn Cawood: printers to the Quenes Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>[1564?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Articles to reform dress.</note>
+                  <note>Publication date from STC.</note>
+                  <note>At foot of sheet 3: Cum priuilegio Regiæ Maiestatis.</note>
+                  <note>Sheet 1, line 1 of text ends "made"; sheet 2, last complete line ends "meete".</note>
+                  <note>Formerly STC 7945.</note>
+                  <note>Identified as STC 7945 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Imprint from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clothing and dress --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:17558:1" rendition="simple:additions"/>
+            <head>¶ Articles for the due execution of the Statutes of Apparell, and for the reformation of the outragious exceſſe thereof, growen of late time within the Realme: Deuyſed vpon the Quenes Maieſties commaundement, by aduiſe of her Counſell, the .vi. of May.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt the Quenes highnes pleaſure is,<note place="margin">xxiiii. <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>en .viii. i. &amp; .ii. Phil. &amp; Ma.</note> that the lawes heretofore made touchying the reformation of the exceſſe of Apparell, &amp; namely the lawes made in Anno .xxiiii. Henrici .viii. and in Anno .i. &amp; ii. Philippi &amp; Marie, be obſerued, and withall diligence put in execution.</p>
+            <p>And foraſmuch as no ſort of people haue ſo muche exceaded, or do day<g ref="char:EOLhyphen"/>lye more excede in the exceſſe of Apparell, contrary to the ſaide Statutes, then ſuche as be of the meaner ſort, and be leaſt hable with their liuinges to mayntayne the ſame: Her Maieſties pleaſure and ſtraight commaun<g ref="char:EOLhyphen"/>dement is, that all Iuſtices and officers to whom the reformation thereof may appertayne, haue ſpeciall regard to the obſeruation and execution, with all ſeueritie of the lawe made<note place="margin">.i. &amp; .ii. Phi. &amp; Ma.</note> Anno .i. &amp; .ii. Philip &amp; Marie, pur<g ref="char:EOLhyphen"/>poſely for that reſpect.</p>
+            <p>For the better order in the due execution of whiche ſtatutes: for her highnes Chaumber, it is ordei<g ref="char:EOLhyphen"/>ned, the Lorde Chaumberlayne &amp; the Vicechaumberlayne:<note place="margin">The order in the Court.</note> And for her Maieſties houſholde, the Lorde Stewarde, the Treaſourer, or the Comptroller, to appoint ſuch truſty officers, as they ſhal thinke fit to haue in thoſe two places ſpeciall regarde to all ſuche as ſhall after. xiiii. dayes next folowyng the pub<g ref="char:EOLhyphen"/>lication of this ordinaunce, preſume to enter into the Court, otherwiſe apparayled, then is permitted by the ſayde ſtatute, and ſtrayght to apprehende and to commit them to warde, there to remayne, tyll they ſhalbe duely puniſhed for theyr offences,<note place="margin">Time of exe<g ref="char:EOLhyphen"/>cution.</note> and vntill ſuche tyme, as they ſhall haue throughly payde and ſatiſfied the penaltie of the ſayde ſtatute: Examining them firſt, howe long and howe often they haue ſithen the time aboue written after the publication of this ordinaunce, worne the ſayde apparell, who is theyr maſter,<note place="margin">Puniſhment The maſter.</note> and howe long they haue ſerued him, and how long it hath ben, that he hath kno<g ref="char:EOLhyphen"/>wen them to weare any part of the ſame Apparell. Vpon whiche examination, the maſter ſtraight to be ſent for, to appeare, yf the offence be founde in the Chaumber, before the Lorde Chaumberlaine, or Vicechaumberlayne, and before the Lorde Steward, Treaſourer, or Comptroller, if it be founde in the houſholde. And in caſe it ſhall appeare by any due meane, that the ſayde maſter had knowledge of the ſayd ſeruauntes abuſe, ſo long tyme as in the ſayd ſtatute is preſcribed: then to take of him a bande of two hundred markes,<note place="margin">Puniſhment of the maſter</note> to the Quenes highnes vſe, to aunſwere the forfayture fallen vpon him by the ſayd ſtatute, whiche bande yf he ſhall refuſe, then to commit him to warde, there to remayne tyll he ſhall haue ſatiſfied the penaltie. The ſaid examination and obligation to be ſent to one of the Quenes highnes remembraunces in the Exchequer, to be by them called vpon, according to the effect of the ſaid ſtatute:<note place="margin">Forfayture.</note> The parties appoynted to this execution, to haue for their paynes, the moitie of the forfayture appoynted by the lawe. Prouided that in caſe it ſhalbe thought fitte to be diſpenſed withall within the Court for any perſon vpon reaſonable cauſe, the Lorde Chaumberlayne, or the Lorde Stewarde, knowing fyrſt her highnes pleaſure,<note place="margin">Diſpenſatio<g ref="char:cmbAbbrStroke">̄</g>.</note> ſhal and may licence them by wrytyng ſubſcribed with one of their handes, teſtifying her Maieſties ſayd pleaſure, foreſeyng that none of them do therby vſe any apparell inhibited vnto them, but duryng ſuche time as they ſhall attende vpon her highnes perſon.</p>
+            <p>
+               <note place="margin">In London.</note>And within the Citie of London and the Liberties of the ſame, the Maior and Court of Aldermen ſhall take and obſerue the like order. That is to ſay, to appoynt in euery warde foure ſubſtanciall and well meanyng men, to ſee the ſayd ſtatute executed, in ſuche ſort as it is ordeyned in the Court, and the ſaid foure, or any of them, to examine all offendours in the ſort aboue written, &amp; apprehending them, to bryng them to the Alderman of the warde, he to commit them to priſon, and to certifie the examination and confeſſion, and ſuch knowledge of iudgement of the trueth of the matter, as he can attayne vnto, aſwell touchyng the maſter, as the man, to the Maior and Court of Aldermen: and they to certifie the ſame indelayedly into the Exchequer, to thintent the forfaytures may be aunſwered. The ſaide foure folowyng the execution of the ſtatute,<note place="margin">Forfayte.</note> to haue the moitie of the forfayture.</p>
+            <p>
+               <note place="margin">Innes of Court.</note>The lyke order to be taken and folowed within the foure Innes of Cout, and in all the houſes of Chauncery, by the principalles and auncientes of the houſes, where are noted to be ſo great diſorders at this preſent, as behoueth to be loked vpon.</p>
+            <p>
+               <note place="margin">Suburbes and places trempted.</note>The ſame order to be folowed in lyke ſort in the Suburbes, out of the liberties of London, and in Weſtminſter, and in all other exempted places, by the officers of thoſe places.</p>
+            <p>
+               <note place="margin">Cities and Townes.</note>And finally like order to be obſerued in all Cities, Townes, and Villages throughout the Realme. In all Cities and Townes corporate, the order to be executed by the Maior, Bayliffes, and other head officers. And in all Townes &amp; Villages, the Iuſtices of peace in euery ſeuerall Shire, to folowe the like order, for the apprehention, examination, takyng of bandes, committing to pryſon, and certificate into the Exchequer, according as is aboue ſayd. The moitie of the penaltie to fall to the officer and officers, appointed to the execution of the lawe.</p>
+            <p>
+               <note place="margin">Countie Palentine.</note>The Countie Palentine of Lancaſter and Cheſter, to make certificate into the Exchequer there, and the Exchequer there, to the Chauncelour of the Duchy, and he to certifie the ſame into the Exchequer here, to thintent aboue ſayde.</p>
+            <pb facs="tcp:17558:2" rendition="simple:additions"/>
+            <p> The doynges herein of all officers aſwell in the Court,<note place="margin">Certificat.</note> as in London, in Cities and Townes corpo<g ref="char:EOLhyphen"/>rate, and of the Iuſtices of all other places through the Realme, to be certified duryng the firſt two mo<g ref="char:EOLhyphen"/>nethes after the publication of this ordinaunce to be made, to the Lorde Chauncelour of Englande, or to the Lorde keper of the great Seale, euery. xv. dayes, and after the ſayde two monethes expired, the ſame to be made euery. vi. wekes, duryng the ſpace of one whole yere, and ſo to continue as by the ſayde Lorde Chauncelour, or Lord keper, ſhalbe preſcribed. And finally that all Iuſtices of Aſſiſe in all their circuites,<note place="margin">Iuſtic. of Aſſ.</note> do enquire ſpecially hereof.</p>
+            <p>It is not ment by any thyng aboue written, to take the libertie from any man, to make informati<g ref="char:EOLhyphen"/>on agaynſt any offendour in the premiſſes, and to enioy, yf the partie be conuicted, ſuche part of the pe<g ref="char:EOLhyphen"/>naltie as by the ſayde lawe is appoynted, foreſeyng that no man be twiſe conuicted for one offence.</p>
+            <p>And to thintent ſuch as ſhalbe appoynted in the Court to the xecution of the premiſſes, may worke the more certainely: It is ordayned they ſhall haue deliuered vnto them a briefe of the ſaid ſtatutes, the like alſo to be deliuered and ſent printed by them ſelues, to all partes and parties, where the perticuler knowledge therof may be thought fitte, for the better execution of the ſame.</p>
+            <p>
+               <note place="margin">Creat hoſe.</note>And for the reformation of the vſe of the monſtruous and outragious greatnes of hoſen, crept a late into the Realme, to the great Claunder therof, and the vndoyng of a number vſyng the ſame, beyng dry<g ref="char:EOLhyphen"/>uen for the maynteynaunce therof, to ſeeke ſuche vnlawefull wayes, as by theyr owne confeſſion haue brought them to deſtruction: It is ordayned as aboue ſayde, that no Taylour, Hoſier, or other perſon whatſoeuer he ſhall be, after the day of the Publication hereof, ſhall put any more cloth in any one payre of hoſen for the outſyde,<note place="margin">The outſide.</note> then one yarde and a halfe, or at the moſte, one yarde and three quarters of a yarde of karſey, or of any other cloth, lether, or any other kinde of ſtuffe aboue that quantitie. And in the ſame hoſen to be put only one kynde of lynyng, beſides linnen cloth next to the legge, yf any ſhal<g ref="char:EOLhyphen"/>be ſo diſpoſed,<note place="margin">The lining.</note> the ſayde lynyng not to lye looſe, nor to be bolſtered, but to lye iuſt vnto their legges, as in auncient tyme was accuſtomed: Sarcenet, Moccado, or any other lyke thing vſed to be worne, and to be plucked out for the furniture of the hoſen, not to be taken in the name of the ſayde lynyng. Ney<g ref="char:EOLhyphen"/>ther any man vnder the degree of a Baron, to weare within his hoſen any Veluet, Sattin, or any other ſtuffe aboue the eſtimation of Sarcenet,<note place="margin">Veluet and Sattin. &amp;c.</note> or Taffata.</p>
+            <p>For the due and better execution and obſeruation whereof, the Maior of London, and the rulers and officers of the Suburbes, and of Weſtminſter, &amp; other exempted places, ſhall immediatly after this Proclamation made, call before them in euery of theyr ſeuerall iuriſdictions, all Hoſiers or Taillours makyng hoſen, dwellyng within the precinctes of the ſame, and ſhall bynde euery of them in the ſu<g ref="char:cmbAbbrStroke">̄</g>me of.<note place="margin">Hoſiers to be bounde.</note> xi. poundes or more, as cauſe ſhall require, to the Quenes highnes vſe, to obſerue this part of this ſayde Proclamation touchyng hoſen, without any maner fraude or guile: whiche bandes as any ſhal<g ref="char:EOLhyphen"/>be founde to offende contrary to this ordinaunce they ſhall certifie into the Exchequer, with the name of euery ſuche ouendour. In all other Cities or Townes corporate, the Maior and head officers, ſhall do in all poyntes the lyke: And in all other places, the Iuſtices of peace. The officers of the Exchequer, to certifie the Lordes of the Quenes highnes priuie counſell at the beginning of euery Terme,<note place="margin">Certificat.</note> what bandes haue come, or haue ben ſent into that office, touchyng the premiſſes tyll that day, and what number of them haue ben executed.</p>
+            <p>If any Hoſier ſhall refuſe to enter into ſuche bande, to be immediatly committed to warde, and to be ſuffred no more to continue his occupation.</p>
+            <p>The Maior of London,<note place="margin">Searche.</note> and all other officers in their iuriſdictions and liberties, to make or cauſe to be made ſearche once within euery. viii. dayes in euery Horſiers houſe, to ſee what kynde of hoſen they ſhall make, and fyndyng any ſuche as be inhibited by theſe orders, to ſee the punyſhement thereof, as is aboue wrytten.</p>
+            <p>Fynally, no men vndiſpenſed with, in ſuch ſort as is aboue ſayde, be ſo hardie after. xiiii. dayes fo<g ref="char:EOLhyphen"/>lowyng the publication of this ordinaunce, to preſume to ſhewe him ſelfe in the Court, or in any other place within this Realme, in any payre of hoſen paſſing the ſyſe aboue ſayd: that is to ſay, conteyning in the nether ſtockes and vpper ſtockes, more then one yarde and a halfe, or about one yarde and three quarters at the moſt, of the brodeſt karſey, or with any other ſtuffe beyonde that proportion, or with me lynynges then one, and that playne and iuſt to the legges, as is aboue ſayd, neyther with any Shurtes hauyng double ruffes,<note place="margin">Ruffes of Shurtes.</note> eyther at the coller or ſleues, whiche ruffes ſhall not be worne otherwyſe, their ſingle, and the ſinglenes to be vſed in a due and meane ſort, as was orderly, and comely vſed before the comming in of the outragious double ruffes, whiche nowe of late are crept in. Or beyng vnder the de<g ref="char:EOLhyphen"/>gree of a knight, with any gylted ſpurres, or any damaſkyng or gylt ſworde, rapyer, or dagger, vppon payne of forfayture of the ſame,<note place="margin">Gilt <list>
+                     <item>ſpurres</item>
+                     <item>ſwordes</item>
+                  </list>
+               </note> and of impriſonment and fine at the Quenes highnes pleaſure for eue<g ref="char:EOLhyphen"/>rye ſuche offence, to be executed within the Court, by ſuch as ſhalbe appoynted, in ſort as is aboue ſayd, by the Lord Chaumberlaine, Vicechaumberlayne, the Lord Stewarde, the Treaſourer, and Comptrol<g ref="char:EOLhyphen"/>ler.<note place="margin">Execution.</note> And in London, &amp; within the liberties therof, to be executed by the Sergeauntes, and ſuche others as ſhalbe appoynted in fourme aforeſayde by the Maior and Aldermen. In the Suburbes, Weſtmin<g ref="char:EOLhyphen"/>ſter, and other priuileged places, by the officers, rulers, and gouernours of them. In all other places, by the head officers and Iuſtices of peace.</p>
+            <p>In the two vniuerſities,<note place="margin">Vniuerſities</note> the Chauncellour, or in his abſence the Vicechauncellour or Comiſſary, to ſee to the execution of the ſayde Statutes, and of all the other orders: and none other Iuſtice or officer there to meddle, but as ſhalbe by them or one of them appoynted. In whiche places is thought meete to haue an vuiformitie of apparell, accordyng to euery ſeuerall vocation.</p>
+            <pb facs="tcp:17558:3"/>
+            <p> The heddes of Colledges and Hawles of the ſayde vniuerſities, to be warned by them to ſee the Scol<g ref="char:EOLhyphen"/>lers vnder their gouernement to obſerue throughly the ſayde ſtatutes and orders, and to abate theyr ruffes and other vnſemely exceſſes, and to haue in theyr apparell regarde to the obſeruation of theyr ſtatutes, and to the decencie of vſyng of them ſelues therin, as heretofore hath ben vſed: wherein yf ey<g ref="char:EOLhyphen"/>ther the maiſter ſhalbe founde to forget his duetie, or the ſcoller to lacke obedience, the Quenes highnes ſhalbe forced to appoynt others to ſee vnto the due punyſhement of both the ſortes.</p>
+            <p>
+               <note place="margin">Ladyes and Gentilwo<g ref="char:EOLhyphen"/>men.</note>Ladyes and gentilwomen attendinge vpon the Quene, or reſortyng to the Court, and theyr gentyl<g ref="char:EOLhyphen"/>women, to be appareled accordyng to the auncient order of the Court: wherof the orders in tyme paſt to be put in vre, by the gentilmen vſſhers, at the appoyntment of the Lord Chaumberlaine, to thintent there may be a difference of eſtates knowen by theyr apparell, after the commendable cuſtome in times paſt vſed in the Court. Whiche order is to be ſought, renewed, and out of hande to be put in vre by the ſayd Lord Chaumberlayne, or otherwyſe to be deuiſed for a certayntie of all degrees.</p>
+            <p>
+               <note place="margin">Swordes, Rapyers, Daggers.</note>And where as an vſage is crept in, contrary to former orders, of wearing of long Swordes, and Rapyers, ſharpened in ſuche ſort, as maye appeare the vſage of them can not tende to defence, whiche ought to be the very meanyng of wearyng of weapons, in times of peace: but to murther, and euident death, when the ſame ſhalbe occupyed. Her Maieſties pleaſure is, that no man ſhall after. x. dayes next followyng this Proclamation, weare any Sword, Rapier, or any weapon in theyr ſteade, paſſynge the length of one yarde &amp; halfe a quarter of blade, at the vttermoſt: neither any Dagger aboue the length of.<note place="margin">Buckler.</note> xii. inches in blade: neither any Buckler, with a ſharpe point, or with any point aboue two ynches of length, vpon payne of forfayting the Sword or Dagger paſſing the ſayd length, &amp; the Buckler made otherwiſe then is preſcribed, to whomſoeuer wil ſeaſe vpon it, and the impryſonment of his body, that ſhalbe found to weare any of them, &amp; to make fine at her Maieſties wyl and pleaſure. And yf any Cut<g ref="char:EOLhyphen"/>ler or other artificer,<note place="margin">Cutler.</note> ſhall after the day of the publication hereof, ſell, or haue within his ſhop or houſe to be ſolde, or ſhal make or cauſe to be made, any Rapier, Sworde, Dagger, or Buckler, contrary to this order, to forfaite the ſame, his body to be impryſoned, &amp; to make fine at the Quenes highnes pleaſure, and to remayne in priſon, tyll the ſayd fine be fully ſatiſfied, &amp; beyng taken with the fault the ſeconds time, neuer to be permitted after, to vſe that occupation. Which in the Court is to be executed by the of<g ref="char:EOLhyphen"/>ficers aforeſayd. In the Citie and liberties by the Maior and Court of Aldermen, and ſuch as by them ſhalbe appoynted in that ſort,<note place="margin">Execution.</note> aſwel ſergeauntes as others beforeſayd. In Weſtminſter, the Suburbes, and other priuileged places, by the offycers of the ſame. In Townes corporate, by the Maior and other head officers, and in all other places, by the Iuſtices of peace.</p>
+            <p>And finally her Maieſtie ſtraightly chargeth aſwell the ſaid Lord Stewarde, Treaſurer, and Comp<g ref="char:EOLhyphen"/>troller of the houſholde, as the Lorde Chaumberlayne, vice chaumberlayne, and ſuch as vnder them ſhalbe appointed and aſſigned, the Maior of London and all other Maiors, Shriefes, Bailiefes, Con<g ref="char:EOLhyphen"/>ſtables, and al Iuſtices of peace, all Principals and auncientes of the Innes of Court, and Chauncery the Chauncelour and vicechauncelour of both the vniuerſities, and the hedes of Haules, and Colleges of the ſame, and all other her highnes officers and miniſters, eche of them in theyr iuriſdictions, to ſe theſe orders being ſet forth and confirmed by her Maieſties Proclamation, to be duely and ſpedyly exe<g ref="char:EOLhyphen"/>cuted in fourme aforeſayde, as they wyll aunſwere for the contrary at theyr perilles, and wyll auoyd her highnes diſpleaſure and indignation.</p>
+            <closer>God ſaue the Quene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London in Powles Churchyarde, by Rycharde Iugge and Iohn Cawood: Printers to the Quenes Maieſtie.</p>
+         </div>
+         <div type="license">
+            <p>
+               <hi>Cum priuilegio Regiae Maieſtatis.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
